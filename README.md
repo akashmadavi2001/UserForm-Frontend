@@ -7,3 +7,7 @@ List Section
 View Section
 
 <img width="641" height="473" alt="Image" src="https://github.com/user-attachments/assets/d9ee82ed-a849-413d-8933-1f4519232cba" />
+
+Add User Section
+
+<img width="1049" height="500" alt="Image" src="https://github.com/user-attachments/assets/cdec32b2-864e-4e59-bc45-8bc29c307313" />
